@@ -10,6 +10,10 @@ Pizza Luvrs is a social network for people who love pizza. Users can create acco
 
 ## Known Issues
 
+Homie in this tutorial is allergic to the ;
+
+The base code is great!
+
 None at this time.
 
 Found one? Please let me know by opening an [issue](https://github.com/ryanmurakami/pizza-luvrs/issues)!
